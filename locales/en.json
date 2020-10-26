@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "services-cloud": "Cloud Native Applications",
+    "service-iot": "Embedded Software & IOT",
+    "service-critical": "Safety-Critical Software",
+    "company": "Company",
+    "company-vision": "Our Vision",
+    "company-approach": "Our Approach"
+  },
+  "cloud": {
+    "zone-1": {
+      "title": "Build for the Future",
+      "text": "We are expert at building web applications that exploit the advantages of the cloud computing delivery model, be it private or public cloud."
+    }
+  }
+}
