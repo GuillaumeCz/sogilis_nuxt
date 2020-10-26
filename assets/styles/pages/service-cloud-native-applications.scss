@@ -49,3 +49,47 @@
     font-size:0.9em;
   }
 }
+
+
+.services_zone_2{
+  margin-bottom:50px;
+
+  .title_zone{
+    font-size:1.5em;
+  }
+  .title_zone::before{
+    margin-top:12px;
+  }
+
+  .bis{
+    margin-bottom: 40px;
+  }
+
+  .text_description{
+    margin-top:10px;
+    margin-bottom:50px;
+  }
+
+  .margin_left_20{
+    margin-left:0px;
+  }
+
+  .title_name{
+    font-size:1em;
+  }
+
+  .title_name::before{
+    content: '';
+    height: 5px;
+    width: 15px;
+    background-color: #A7E4EA;
+    display: block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: -25px;
+  }
+
+  .icone{
+    height: 50px;
+  }
+}

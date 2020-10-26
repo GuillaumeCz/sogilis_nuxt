@@ -14,6 +14,31 @@
         </div>
       </div>
     </div>
+    <div class="container services_zone_2">
+      <div class="row">
+        <div class="col-10 offset-1 col-sm-7 offset-sm-1 col-md-5 offset-md-1 col-lg-4 offset-lg-1">
+          <h1 class="title_zone"> Disrupt your competitors </h1>
+          <p class="text_description">A cloud native approach helps your <br>company lead its market by delivering <br>features more often. </p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-12 col-sm-12 col-md-4 col-lg-3 offset-lg-1">
+          <span class="title_name">Responsiveness</span>
+          <div class="col-12 col-sm-12 col-md-12 col-lg-10">
+            <p class="text_description">Bring new ideas to market faster (several times a day!), respond sooner to customer needs.</p>
+          </div>
+        </div>
+
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+          <span class="title_name">Never lose business</span>
+          <div class="col-12 col-sm-12 col-md-12 col-lg-10">
+            <p class="text_description">You can scale up/down your infrastructure instantly when web trafic increases/decreases with zero downtime.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
   </div>
 </template>
 
