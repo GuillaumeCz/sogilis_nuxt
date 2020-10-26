@@ -1,16 +1,18 @@
 {
-  "menu": {
-    "services-cloud": "Applications Cloud Native",
-    "service-iot": "Logiciels Embarqués & IOT",
-    "service-critical": "Logiciels Critiques",
-    "company": "L'entreprise",
-    "company-vision": "Notre Vision",
-    "company-approach": "Notre Approche"
-  },
+  "contact-us": "Contactez nous",
+  "services-cloud": "Applications Cloud Native",
+  "service-iot": "Logiciels Embarqués & IOT",
+  "service-critical": "Logiciels Critiques",
+  "company": "L'entreprise",
+  "company-vision": "Notre Vision",
+  "company-approach": "Notre Approche",
+  "jobs": "Emplois",
   "cloud": {
     "zone-1": {
       "title": "Bâti pour l'avenir",
       "text": "Nous sommes experts dans la création d'applications Web qui exploitent les avantages du modèle de l'informatique dans le Cloud, qu'il soit privé ou public."
     }
-  }
+  },
+  "credits": "Sogilis - Tous Droits Réservés - 2020",
+  "legal": "Mentions Légales"
 }

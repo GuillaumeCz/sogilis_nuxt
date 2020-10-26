@@ -8,7 +8,7 @@
 
         <div class="col-10 col-sm-5 col-md-4 offset-md-1 col-lg-3 offset-lg-1">
           <h1 class="title_level_1">Contact</h1>
-          <a class="btn_dark_grey" href="#">Contact us
+          <a class="btn_dark_grey" href="#">{{ $t("contact-us") }}
             <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 7.5 10.3" style="enable-background:new 0 0 7.5 10.3;" xml:space="preserve">
                             <style type="text/css">
@@ -133,17 +133,17 @@
         <div class="col-11 offset-1  col-sm-7 col-md-5 offset-md-1 col-lg-3 offset-lg-2">
           <h1 class="title_level_1">Services</h1>
           <ul>
-            <li><a href="#" class="liens_text">Cloud Native Applications</a></li>
-            <li><a href="#" class="liens_text">Embedded & Software IoT</a></li>
-            <li><a href="#" class="liens_text">Safety Critical Software</a></li>
+            <li><a href="#" class="liens_text">{{ $t("services-cloud") }}</a></li>
+            <li><a href="#" class="liens_text">{{ $t("service-iot") }}</a></li>
+            <li><a href="#" class="liens_text">{{ $t("service-critical") }}</a></li>
           </ul>
         </div>
 
         <div class="col-11 offset-1  col-sm-5 col-md-4 offset-md-0 col-lg-3 offset-lg-1">
-          <h1 class="title_level_1">Company</h1>
+          <h1 class="title_level_1">{{ $t("company") }}</h1>
           <ul>
-            <li><a href="#" class="liens_text">Our Purpose</a></li>
-            <li><a href="#" class="liens_text">Jobs</a></li>
+            <li><a href="#" class="liens_text">{{ $t("company-vision") }}</a></li>
+            <li><a href="#" class="liens_text">{{ $t('jobs') }}</a></li>
             <li><a href="#" class="liens_text">Blog</a></li>
           </ul>
         </div>
@@ -155,10 +155,10 @@
       </div>
       <div class="row subfooter  justify-content-between">
         <div class="col-9 col-sm-8 col-md-4 col-lg-4">
-          <p class="text_description">Sogilis - All right reserved - 2020</p>
+          <p class="text_description">{{ $t("credits") }}</p>
         </div>
         <div class="col-2 col-sm-3 col-md-2 col-lg-1">
-          <a href="#">Legal</a>
+          <a href="#">{{ $t('legal') }}</a>
         </div>
       </div>
     </div>
