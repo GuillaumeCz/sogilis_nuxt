@@ -11,7 +11,9 @@
           <div class="dropdown">
             <button class="dropbtn">Services</button>
             <div class="dropdown-content">
-              <a href="#" >Cloud Native Applications</a>
+              <nuxt-link to="/service-cloud-native-applications">
+                Cloud Native Applications
+              </nuxt-link>
               <a href="#">Embedded Software & IoT</a>
               <a href="#">Safety-Critical Software</a>
             </div>
