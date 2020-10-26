@@ -1,9 +1,10 @@
 <template>
-  <div class="content_header">
+  <div class="content_header_scroll">
+<!--  <div class="content_header">-->
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-12 col-md-2 offset-md-1 col-lg-2 offset-lg-2">
-          <a href="#"><img src="img/logo_sogilis.svg"></a>
+          <a href="#"><img src="/img/logo_sogilis.svg"></a>
         </div>
 
         <nav class="col-md-7 offset-md-2 col-lg-6 offset-lg-1">
