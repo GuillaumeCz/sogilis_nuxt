@@ -12,17 +12,17 @@
             <button class="dropbtn">Services</button>
             <div class="dropdown-content">
               <nuxt-link to="/service-cloud-native-applications">
-                Cloud Native Applications
+                {{ $t('menu.services-cloud') }}
               </nuxt-link>
-              <a href="#">Embedded Software & IoT</a>
-              <a href="#">Safety-Critical Software</a>
+              <a href="#">{{ $t("menu.service-iot") }}</a>
+              <a href="#">{{ $t("menu.service-critical") }}</a>
             </div>
           </div>
           <div class="dropdown">
-            <button class="dropbtn">Company</button>
+            <button class="dropbtn">{{ $t("menu.company") }}</button>
             <div class="dropdown-content">
-              <a href="#" class="dropdown-content-company">Our Vision</a>
-              <a href="#" class="dropdown-content-company">Our Approach</a>
+              <a href="#" class="dropdown-content-company">{{ $t("menu.company-vision") }}</a>
+              <a href="#" class="dropdown-content-company">{{ $t("menu.company-approach") }}</a>
             </div>
           </div>
           <a href="https://blog.sogilis.com" class="menu_link_1">Blog</a>
