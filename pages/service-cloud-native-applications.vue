@@ -39,6 +39,54 @@
 
       </div>
     </div>
+    <div class="container-fluid services_zone_3">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-sm-12 col-md-6 col-lg-5">
+            <h1 class="title_zone"> Technological Expertise</h1>
+            <div class="col-12 col-md-10 col-lg-12">
+              <p class="text_description">We can help your team put in place the best practices to make your competitors irrelevant.</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-10 offset-1 offset-sm-0 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+            <div class="technical_item">
+              <p class="text_description v_align">DevOps Mindset</p>
+            </div>
+          </div>
+          <div class="col-10 offset-1 offset-sm-0 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+            <div class="technical_item">
+              <p class="text_description v_align v_align_992">MicroServices Architecture</p>
+            </div>
+          </div>
+          <div class="col-10 offset-1 offset-sm-0 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+            <div class="technical_item">
+              <p class="text_description v_align v_align_3">Continuous Delivery Pipeline</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-10 offset-1 offset-sm-0 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+            <div class="technical_item">
+              <p class="text_description v_align">Containers (Docker)</p>
+            </div>
+          </div>
+          <div class="col-10 offset-1 offset-sm-0 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+            <div class="technical_item">
+              <p class="text_description v_align_3">Serverless Architecture <br> (AWS Lambda)</p>
+            </div>
+          </div>
+          <div class="col-10 offset-1 offset-sm-0 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+            <div class="technical_item">
+              <p class="text_description">Service Discovery (etcd, consul), Service Mesh</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
   </div>
 </template>
 
