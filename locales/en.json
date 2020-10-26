@@ -11,6 +11,25 @@
     "zone-1": {
       "title": "Build for the Future",
       "text": "We are expert at building web applications that exploit the advantages of the cloud computing delivery model, be it private or public cloud."
+    },
+    "zone-2": {
+      "disrupt": {
+        "title": "Disrupt your competitors",
+        "text": "A cloud native approach helps your company lead its market by delivering features more often."
+      },
+      "responsiveness": {
+        "title": "Responsiveness",
+        "text": "Bring new ideas to market faster (several times a day!), respond sooner to customer needs."
+      },
+      "business": {
+        "title": "Never lose business",
+        "text": "You can scale up/down your infrastructure instantly when web traffic increases/decreases with zero downtime."
+      }
+    },
+    "zone-3": {
+      "title": "Technological Expertise",
+      "subtitle": "We can help your team put in place the best practices to make your competitors irrelevant.",
+      "squares": ["DevOps Mindset", "MicroServices Architecture", "Continuous Delivery Pipeline", "Containers (Docker)", "Serverless Architecture (AWS Lambda)", "Service Discovery (etcd, consul), Service Mesh"]
     }
   },
   "credits": "Sogilis - All Rights Reserved - 2020",

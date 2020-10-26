@@ -11,6 +11,25 @@
     "zone-1": {
       "title": "Bâti pour l'avenir",
       "text": "Nous sommes experts dans la création d'applications Web qui exploitent les avantages du modèle de l'informatique dans le Cloud, qu'il soit privé ou public."
+    },
+    "zone-2": {
+      "disrupt": {
+        "title": "Bousculez vos concurrents.",
+        "text": "Une approche Cloud Native aidera votre entreprise à devenir leader sur son marché en proposant de nouvelles fonctionnalités plus souvent."
+      },
+      "responsiveness": {
+        "title": "Soyez réactif.",
+        "text": "Mettez plus rapidement de nouvelles idées sur le marché plus rapidement (plusieurs fois par jour !), et répondez plus rapidement aux besoins des clients."
+      },
+      "business": {
+        "title": "Ne perdez pas d'affaires.",
+        "text": "Vous pouvez augmenter/réduire votre infrastructure instantanément lorsque le trafic Web augmente/diminue sans temps d'arrêt."
+      }
+    },
+    "zone-3": {
+      "title": "Notre Expertise Technologique",
+      "subtitle": "Nous aidons votre équipe à mettre en place les meilleures pratiques pour mettre vos concurrents hors courses.",
+      "squares": ["Mentalité de DevOps", "Architectures MicroServices ", "Développement Continu", "Containers (Docker)", "Architecture ServerLess (AWS Lambda)", "Service Discovery (etcd, consul), Service Mesh"]
     }
   },
   "credits": "Sogilis - Tous Droits Réservés - 2020",
