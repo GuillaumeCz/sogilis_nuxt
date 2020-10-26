@@ -1,6 +1,8 @@
 <template>
-  <div class="container">
+  <div>
     <Header></Header>
+    <div>Hello</div>
+    <Footer></Footer>
   </div>
 </template>
 
