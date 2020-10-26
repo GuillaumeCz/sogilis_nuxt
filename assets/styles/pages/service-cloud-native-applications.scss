@@ -1,0 +1,51 @@
+
+.services_zone_1{
+  padding-top:170px;
+
+  img{
+    width:100%;
+  }
+
+
+  .illustration_nuage{
+    position: absolute;
+    width: 53%;
+    top: -67px;
+    left: -92px;
+  }
+
+  .illustration_nuage_iot{
+    position: absolute;
+    width: 53%;
+    top: -67px;
+    left: -92px;
+  }
+
+  .title_subcategory{
+    font-size:1em;
+    font-weight:400;
+    margin-top:30px;
+    margin-bottom:10px;
+  }
+
+  .title_level_1{
+    font-size:2.5em;
+  }
+
+  .text_montserrat::before{
+    content: '';
+    height: 5px;
+    width: 20px;
+    background-color: #A7E4EA;
+    display: block;
+    position: absolute;
+    margin-top: 8px;
+    margin-left: -30px;
+  }
+
+  .text_montserrat{
+    margin-left:60px;
+    margin-top:20px;
+    font-size:0.9em;
+  }
+}
