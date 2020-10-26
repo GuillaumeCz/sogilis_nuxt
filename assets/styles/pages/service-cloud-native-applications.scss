@@ -50,7 +50,6 @@
   }
 }
 
-
 .services_zone_2{
   margin-bottom:50px;
 
@@ -139,6 +138,59 @@
 
     .v_align{
       margin-top:20px;
+    }
+  }
+}
+
+.services_zone_4{
+  margin-top:50px;
+
+
+  .are_you_ready{
+    background-color:$light-electric-blue;
+    padding-top:80px;
+    padding-bottom:50px;
+    padding-left:100px;
+    box-shadow:0 0 19px 0px rgba(0, 0, 0, 0.1);
+    moz-box-shadow:0 0 19px 0px rgba(0, 0, 0, 0.1);
+    webkit-box-shadow:0 0 19px 0px rgba(0, 0, 0, 0.1);
+
+    .title_level_1{
+      color:$wolf-blue;
+      font-size:3em;
+      font-weight:600;
+    }
+
+    .title_level_1::after{
+      content: '';
+      display: block;
+      height: 13px;
+      width: 100%;
+      background-color: white;
+      margin-top: -18px;
+      margin-left: 131px;
+    }
+
+    .text_description{
+      color:$wolf-blue;
+      margin-top:30px;
+      line-height:2em;
+    }
+  }
+
+  .techno_logo{
+    margin-top:-230px;
+    background-color:$wolf-blue;
+    padding-top:80px;
+    padding-bottom:45px;
+    padding-left:100px;
+    box-shadow:0 0 19px 0px rgba(0, 0, 0, 0.1);
+    moz-box-shadow:0 0 19px 0px rgba(0, 0, 0, 0.1);
+    webkit-box-shadow:0 0 19px 0px rgba(0, 0, 0, 0.1);
+
+    img{
+      margin-bottom:40px;
+      width:145px;
     }
   }
 }

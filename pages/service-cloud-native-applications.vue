@@ -86,7 +86,36 @@
         </div>
       </div>
     </div>
-
+    <div class="container services_zone_4">
+      <div class="row">
+        <div class="col-12 col-md-10 offset-md-1 col-lg-8 are_you_ready">
+          <div class="col-10 col-sm-11 col-md-10 col-lg-7">
+            <h1 class="title_level_1">Are you ready for <br> the Cloud?</h1>
+            <p class="text_description">Wether you need to build an application from scratch or to migrate/rewrite a legacy app, we can help your company benefit from the advantages of the Cloud Native model. We can design your cloud architecture and select the most appropriate IaaS /CaaS or PaaS provider for your constraints.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="d-none d-sm-block col-10 col-sm-12 col-md-10 offset-md-1 col-lg-6 offset-lg-6 techno_logo">
+          <div class="row">
+            <div class="col-6 col-md-6 col-lg-6">
+              <img src="/img/logo_openstack.svg"/>
+            </div>
+            <div class="col-6 col-md-6 col-lg-6">
+              <img src="/img/logo_amazon.svg"/>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-6 col-md-6 col-lg-6">
+              <img src="/img/logo_squarescale.svg"/>
+            </div>
+            <div class="col-6 col-md-6 col-lg-6">
+              <img src="/img/logo_google_cloud.svg"/>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
