@@ -132,7 +132,6 @@
         </div>
       </div>
     </div>
-
     <div class="services_zone_6 container">
       <div class="row">
         <div class="order-2 order-md-1 col-12 col-md-6 col-lg-5 offset-lg-1">
@@ -180,6 +179,74 @@
 
         <div class="order-1 order-md-2 col-12 col-md-6 col-lg-6">
           <img data-aos="fade-right" data-aos-duration="2500" data-aos-delay="0" data-aos-once="true" src="/img/cloud_illustr_languages.svg"/>
+        </div>
+      </div>
+    </div>
+    <div class="container lets_create_something">
+      <div class=" row justify-content-center">
+        <div class="col-10 col-sm-10 col-md-7 col-lg-5">
+          <h2>Let's create something great together !</h2>
+          <a class="btn_dark_grey" href="#">Contact us
+            <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 7.5 10.3" style="enable-background:new 0 0 7.5 10.3;" xml:space="preserve">
+                        <style type="text/css">
+                            .st0{fill:none;stroke-width:3;}
+                        </style>
+              <path id="Tracé_16" class="st0" d="M1.2,9.2l4.1-4.1L1.1,1.2"/>
+                        </svg>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid services_zone_7">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-md-10 col-lg-7">
+            <img data-aos="fade-down" data-aos-duration="2500" data-aos-delay="0" data-aos-once="true" src="/img/cloud_ux.png"/>
+          </div>
+
+          <div class="col-12 col-md-9 col-lg-5">
+            <h2 class="title_zone">We do not want you to get a good app...</h2>
+            <p class="text_description"><b>...we want you to get a GREAT app.</b></p>
+
+            <p class="text_description">Yes we agreed echnology is important, but it’s not enough if you want to lead your market! We believe that User Experience is critical to the success of any application.
+              <br><br>
+              At Sogilis, we have a team of UI/UX experts that works closely with our Cloud Native experts to capture the needs of your customers, and to bring the best experience they can expect from your cutting-edge application.</p>
+
+            <a class="btn_white" href="http://www.uxshadow.com/" target="_blank">Discover uxShadow
+              <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                   viewBox="0 0 7.5 10.3" style="enable-background:new 0 0 7.5 10.3;" xml:space="preserve">
+                            <style type="text/css">
+                                .st0{fill:none;stroke-width:3;}
+                            </style>
+                <path id="Tracé_16" class="st0" d="M1.2,9.2l4.1-4.1L1.1,1.2"/>
+                            </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container services_zone_8">
+      <div class="row">
+        <div class="col-12 col-md-10 offset-md-1 col-lg-6">
+          <h2 class="title_zone">Deploy and scale your Cloud Native app on any cloud, anywhere, with the click of a button.</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 col-md-6 col-lg-6">
+          <img src="/img/cloud_squarescale.png"/>
+        </div>
+        <div class="col-12 col-md-6 col-lg-5">
+          <p class="text_description">We are proud that Sogilis, thanks to its Cloud Native expertise, gave birth to SquareScale, a cutting-edge platform allowing any software development team to deploy a Cloud Native application on any cloud, any geography on a dedicated cluster.<br>As a Sogilis’ customer, you will benefit from attractive offers on SquareScale prices.</p>
+          <a class="btn_dark_grey" href="http://www.squarescale.com" target="_blank">Discover SquareScale
+            <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 7.5 10.3" style="enable-background:new 0 0 7.5 10.3;" xml:space="preserve">
+                        <style type="text/css">
+                            .st0{fill:none;stroke-width:3;}
+                        </style>
+              <path id="Tracé_16" class="st0" d="M1.2,9.2l4.1-4.1L1.1,1.2"/>
+                        </svg>
+          </a>
         </div>
       </div>
     </div>

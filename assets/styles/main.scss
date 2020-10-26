@@ -159,3 +159,59 @@
   color:$wolf-blue;
   text-decoration:none;
 }
+
+
+.btn_white{
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+  border:solid white 3px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:600;
+  position:relative;
+  font-size:0.9em;
+  color:white;
+  z-index:1;
+  padding: 12px 20px 12px 20px;
+
+  svg{
+    width:8px;
+    margin-left:20px;
+    stroke:white;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+  }
+}
+
+.btn_white:hover{
+  color:$wolf-blue;
+  text-decoration:none;
+
+  svg{
+    stroke:$wolf-blue;
+  }
+}
+
+.btn_white::after {
+  background: #fff;
+  display:block;
+  content: '';
+  position: absolute;
+  z-index: -1;
+  height: 103%;
+  left: -1px;
+  top: -1px;
+  width: 0;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.btn_white:hover:after{
+  width: 101%;
+}
+
